@@ -64,7 +64,7 @@ npx skills add newuni/magi-functional-search --skill functional-search --agent '
 Natural search:
 
 ```text
-filtros contenido wells
+well content filters
 ```
 
 Exact phrase boost:
@@ -82,7 +82,7 @@ compound NOT image
 With path:
 
 ```text
-filtros por compuesto en ./docs
+filter wells by compound in ./docs
 ```
 
 Optional flags:
