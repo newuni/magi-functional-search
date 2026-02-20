@@ -92,3 +92,13 @@ Optional flags:
 - `--format json`
 - `--max-results N`
 - `--context N`
+
+
+## Responsible Use
+
+Use this project only for lawful, authorized purposes.
+
+
+## Third-Party Services & Trademarks
+
+Third-party names and trademarks belong to their respective owners; no affiliation is implied.
