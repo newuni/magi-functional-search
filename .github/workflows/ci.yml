@@ -9,7 +9,7 @@ jobs:
   baseline:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v6
       - run: test -f README.md
       - run: test -f LICENSE
       - run: test -f SECURITY.md
